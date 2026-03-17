@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MikroTikMcp", "MikroTikMcp\MikroTikMcp.csproj", "{AF933CC5-8525-8BA3-5B6F-F355569F4684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF933CC5-8525-8BA3-5B6F-F355569F4684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF933CC5-8525-8BA3-5B6F-F355569F4684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF933CC5-8525-8BA3-5B6F-F355569F4684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF933CC5-8525-8BA3-5B6F-F355569F4684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE1C517-EB6C-4C88-94AB-3F73A207B1CA}
+	EndGlobalSection
+EndGlobal

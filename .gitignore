@@ -1,0 +1,26 @@
+## .NET
+bin/
+obj/
+publish/
+
+## IDE
+.vs/
+*.user
+*.suo
+
+## Node
+node_modules/
+
+## Logs
+*.log
+logs/
+
+## Secrets — never commit appsettings with real passwords
+appsettings.*.json
+!appsettings.json
+
+## Build artifacts
+*.pdb
+
+## Claude Code
+.claude/
